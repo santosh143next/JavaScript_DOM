@@ -1,0 +1,11 @@
+body {
+  background-color: skyblue;
+}
+
+input:invalid {
+  border: red;
+}
+
+input:valid {
+  border: blue;
+}
