@@ -293,3 +293,13 @@ grandParent.addEventListener("click", e => {
              5. git commit -m "commit_name"     // m = message
                     
 */
+
+/* 
+
+mkdir Axisbank
+cd Axisbank
+touch index.html
+touch mysoreBranch.js
+touch kgfbranch.js
+touch bangalorebranch.js
+*/
